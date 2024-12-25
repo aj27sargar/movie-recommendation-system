@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pickle files
+*.pkl
+
+# Virtual environment
+venv/
+
+# System files
+.DS_Store
+
+# Editor files
+.vscode/
