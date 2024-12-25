@@ -13,3 +13,4 @@ venv/
 
 # Editor files
 .vscode/
+.README.MD
