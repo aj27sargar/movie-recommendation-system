@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Movie Recommendation System
 
 A **Python + Streamlit** based application that recommends similar movies based on your selection. This system uses **TMDB movie metadata** and **cosine similarity** to suggest the top 10 similar movies.
@@ -10,12 +9,6 @@ A **Python + Streamlit** based application that recommends similar movies based 
 ## 🧠 Objective
 
 The goal is to help users discover movies similar to ones they like using a content-based filtering approach. The app uses metadata like genre, cast, overview, and more from TMDB datasets.
-
----
-
-## 🖼️ Demo Screenshot
-
-![UI Screenshot](./Screenshot%202025-07-29%20170929.png)
 
 ---
 
@@ -32,8 +25,6 @@ The goal is to help users discover movies similar to ones they like using a cont
 
 ## 📂 Project Structure
 
-```
-
 movie-recommendation-system/
 ├── app.py                    # Streamlit web app
 ├── movie\_data.pkl            # Serialized similarity data
@@ -44,9 +35,6 @@ movie-recommendation-system/
 ├── Screenshot 2025-07-29.png # App preview
 └── .gitignore
 
-````
-
----
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +45,7 @@ movie-recommendation-system/
 - **Pickle** – save/load model
 - **TMDB Dataset** – movie metadata
 
----
+----
 
 ## 🚀 How to Run
 
