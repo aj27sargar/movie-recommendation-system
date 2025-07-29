@@ -52,7 +52,7 @@ movie-recommendation-system/
 ### 🧑‍💻 Local Setup
 
 1. **Clone the repo**:
-   ```bash
+```bash
    git clone https://github.com/aj27sargar/movie-recommendation-system.git
    cd movie-recommendation-system
 ````
@@ -98,6 +98,7 @@ For input movie **"Avatar"**, recommended movies:
 * 📱 Make it mobile-friendly
 
 ---
+<img width="1907" height="863" alt="Screenshot 2025-07-29 170929" src="https://github.com/user-attachments/assets/eb923fc1-a4f6-4911-b96c-879ed8030774" />
 
 ## 📜 License
 
